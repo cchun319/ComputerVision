@@ -10,7 +10,7 @@
 <p>
 Used Delaunchy triangulation and Bycentric coordination to merge two images</br>
 </p>
-<img src="YOLO/image/shortened_video.mp4" alt="drawing" height="200"/>
+<img src="YOLO/image/shortened_video2.gif" alt="drawing" height="200"/>
 <img src="YOLO/image/val1.png" alt="drawing" height="200"/>
 <img src="YOLO/image/val2.png" alt="drawing" height="200"/>
 

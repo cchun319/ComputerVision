@@ -48,5 +48,6 @@ Used Delaunchy triangulation and Bycentric coordination to merge two images</br>
 Used Delaunchy triangulation and Bycentric coordination to merge two images</br>
 </p>
 <img src="Canny Edge Detection/image/edges.png" alt="drawing" height="200"/>
+
 ## Technologies
 python3.6

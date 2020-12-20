@@ -1,10 +1,13 @@
 # You Only Look Once
 
 ## Usage
+# local
 use terminal to the directory and run the command below</br>
 ```bash
 python3 ./train.py
 ```
+# colab
+run all cells
 
 ## Results
 <img src="image/val1.png" alt="drawing" height="300"/></br>

@@ -1,12 +1,12 @@
 # You Only Look Once
 
 ## Usage
-# local
+### local
 use terminal to the directory and run the command below</br>
 ```bash
 python3 ./train.py
 ```
-# colab
+### colab
 run all cells
 
 ## Results

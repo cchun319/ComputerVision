@@ -1,5 +1,11 @@
 # You Only Look Once
 
+## Usage
+use terminal to the directory and run the command below</br>
+```bash
+python3 ./train.py
+```
+
 ## Results
 <img src="image/val1.png" alt="drawing" height="300"/></br>
 <img src="image/val2.png" alt="drawing" height="300"/></br>
